@@ -5,5 +5,5 @@
       "sourceMap": true,
       "rootDir": "src/",
       "outDir": "dist/"
-    }
+      }
 }
